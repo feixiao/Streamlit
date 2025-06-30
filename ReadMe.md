@@ -5,7 +5,15 @@
 pip install virtualenv
 Python -m venv streamlit_venv
 
-pip install streamlit
+# 激活 streamlit_venv
+source streamlit_venv/bin/activate
+
+pip install streamlit pandas
+
+# 保存环境
+pip freeze > requirements.txt
+# 恢复环境
+pip install -r requirements.txt
 
 # 测试
 streamlit hello
@@ -14,5 +22,11 @@ streamlit hello
 #### 例子
 + chap02
 ```shell
+# 设置了一个标题
 streamlit run Chap02/Product_Recommender/data_app.py
+```
+
++ chap03
+```shell
+streamlit run Chap03/Product_Recommender/data_app.py
 ```
