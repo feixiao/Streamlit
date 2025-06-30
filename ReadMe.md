@@ -14,5 +14,5 @@ streamlit hello
 #### 例子
 + chap02
 ```shell
-streamlit run "Chapter 02/Product_Recommender/data_app.py"
+streamlit run Chap02/Product_Recommender/data_app.py
 ```
