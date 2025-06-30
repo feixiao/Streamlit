@@ -10,3 +10,9 @@ pip install streamlit
 # 测试
 streamlit hello
 ```
+
+#### 例子
++ chap02
+```shell
+streamlit run "Chapter 02/Product_Recommender/data_app.py"
+```
