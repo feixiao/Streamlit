@@ -40,3 +40,7 @@ streamlit run Chap04/ex01.py
 ```shell
 streamlit run Chap04/ex02.py
 ```
++ Application to use the utility features of Streamlit
+```shell
+streamlit run Chap04/ex03.py
+```
