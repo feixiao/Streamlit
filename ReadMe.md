@@ -36,3 +36,7 @@ streamlit run Chap03/Product_Recommender/data_app.py
 ```shell
 streamlit run Chap04/ex01.py
 ```
++ Streamlit App With Layouts and Containers
+```shell
+streamlit run Chap04/ex02.py
+```
