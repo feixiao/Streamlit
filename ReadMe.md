@@ -20,13 +20,19 @@ streamlit hello
 ```
 
 #### 例子
-+ chap02
+##### chap02
 ```shell
 # 设置了一个标题
 streamlit run Chap02/Product_Recommender/data_app.py
 ```
 
-+ chap03
+##### chap03
 ```shell
 streamlit run Chap03/Product_Recommender/data_app.py
+```
+
+##### chap04
++ ex01 不使用layouts和containers
+```shell
+streamlit run Chap04/ex01.py
 ```
