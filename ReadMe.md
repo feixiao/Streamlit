@@ -48,3 +48,11 @@ streamlit run Chap04/ex03.py
 ```shell
 streamlit run Chap04/ex04.py
 ```
++ How to set a custom theme
+```shell
+streamlit run Chap04/ex05.py
+```
++ Product recommender application
+```shell
+streamlit run Chap04/Product_Recommender/data_app.py
+```

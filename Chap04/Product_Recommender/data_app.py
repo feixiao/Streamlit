@@ -27,13 +27,15 @@ with st.sidebar:
 if __name__ == "__main__":
     # main page
 
+    # Create tabs for different sections
+
     tab1, tab2, tab3 = st.tabs(["Intro","Product Recommendation", "Top Products"])
     with tab1:
-        intro()
+        intro() # Introduction section
     with tab2:
-        recommend_main()
+        recommend_main()    # Product recommendation section
     with tab3:
-        top_products_main()
+        top_products_main() # Top products section
 
 
 
