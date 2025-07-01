@@ -44,3 +44,7 @@ streamlit run Chap04/ex02.py
 ```shell
 streamlit run Chap04/ex03.py
 ```
++ Demonstrates the use of Streamlit control flow widgets
+```shell
+streamlit run Chap04/ex04.py
+```
