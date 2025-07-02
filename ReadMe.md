@@ -69,3 +69,12 @@ streamlit run data_app.py
 streamlit run Chap07/ex01.py
 streamlit run Chap07/ex02.py
 ```
+
+##### chap09
++ weather_data_app
+```shell
+streamlit run Chap09/easy_projects/weather_data_app.py
+```
++ currency_converter_app
+c
+```
