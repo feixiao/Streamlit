@@ -67,4 +67,5 @@ streamlit run data_app.py
 + Callbacks
 ```shell
 streamlit run Chap07/ex01.py
+streamlit run Chap07/ex02.py
 ```
