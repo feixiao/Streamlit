@@ -56,3 +56,9 @@ streamlit run Chap04/ex05.py
 ```shell
 streamlit run Chap04/Product_Recommender/data_app.py
 ```
+
+##### chap05
+```shell
+cd Chap05/Product_Recommender
+streamlit run data_app.py
+```
